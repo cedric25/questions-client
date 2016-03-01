@@ -1,1 +1,1 @@
-A simple Node.js app that answers questions from questions-server
+A simple Node.js app answering questions from [questions-server](https://github.com/cedric25/questions-server)
